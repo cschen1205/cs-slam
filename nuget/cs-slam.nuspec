@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-slam</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-slam/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-slam</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-slam/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simultaneous Localization And Mapping</description>
+    <releaseNotes>Simultaneous Localization And Mapping in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Simultaneous Localization And Mapping, SLAM, Control Theory, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
